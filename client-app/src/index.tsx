@@ -4,6 +4,11 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+<link
+rel="stylesheet"
+href="https://cdn.jsdelivr.net/npm/semantic-ui@2/dist/semantic.min.css"
+/>
+
 ReactDOM.render(
     <App />,
   document.getElementById('root')
