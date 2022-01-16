@@ -1,13 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
+import './app/layout/styles.css';
+import App from './app/layout/App';
 import reportWebVitals from './reportWebVitals';
-
-<link
-rel="stylesheet"
-href="https://cdn.jsdelivr.net/npm/semantic-ui@2/dist/semantic.min.css"
-/>
 
 ReactDOM.render(
     <App />,
